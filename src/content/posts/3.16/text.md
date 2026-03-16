@@ -3,7 +3,7 @@ title: "好耶!我今天终于弄出个人网站了"
 published: 2026-03-16
 description: 第一天学习网页
 image: ./cover.jpg
-tags: [Foo, Bar]
+tags: [Foo, Bar,diary]
 category: Front-end
 draft: false
 ---
@@ -12,4 +12,4 @@ draft: false
 好多女孩子的图片，好漂亮的樱花，我很喜欢！
 
 # 贴上原站的地址
-<a href="https://mizuki.mysqil.com/" title="去看看" style="font-size: 24px; font-weight:bold;">原站</a>
+<a href="https://mizuki.mysqil.com/" title="去看看" style="font-size: 40px; font-weight:bold;">原站</a>

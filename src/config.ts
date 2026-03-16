@@ -164,16 +164,13 @@ export const siteConfig: SiteConfig = {
 			title: "わたしの部屋", // 主页横幅主标题
 
 			subtitle: [
-				"特別なことはないけど、君がいると十分です",
-				"今でもあなたは私の光",
-				"君ってさ、知らないうちに私の毎日になってたよ",
-				"君と話すと、なんか毎日がちょっと楽しくなるんだ",
-				"今日はなんでもない日。でも、ちょっとだけいい日",
+				"欢迎来到我的博客，我会在这里记录一些自己的生活！",
+				"推荐浏览器缩放到90%获得更好的体验"
 			],
 			typewriter: {
 				enable: true, // 启用副标题打字机效果
 
-				speed: 100, // 打字速度（毫秒）
+				speed: 50, // 打字速度（毫秒）
 				deleteSpeed: 50, // 删除速度（毫秒）
 				pauseTime: 2000, // 完全显示后的暂停时间（毫秒）
 			},
@@ -624,8 +621,8 @@ export const pioConfig: import("./types/config").PioConfig = {
 	dialog: {
 		welcome: "欢迎来到 Mizuki 网站！", // 欢迎词https://github.com/endray-coder/the_snake
 		touch: [
-			"你在干什么？",
-			"再摸我就报警了！",
+			"呀!你在干什么喵？",
+			"再摸我就报警了哟！",
 			"HENTAI!",
 			"不可以这样欺负我喵！",
 		], // 触摸提示
