@@ -1,8 +1,8 @@
 ---
 title: 水课与爬塔
-published: 2026-03-18
+published: 2026-03-19
 description: "很多的水课"
-image: "./cover.jpg"
+image: "./cover.png"
 tags: ["Mizuki", "Blogging", "Customization"]
 category: Guides
 draft: false
@@ -20,3 +20,5 @@ draft: false
 说考虑未来增加超时检测。
 
 `开源社区好棒`
+
+![photo](sagiri.png "photo!")
