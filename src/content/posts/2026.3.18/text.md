@@ -4,7 +4,7 @@ published: 2026-03-18
 description: "很坏的合并冲突"
 image: "./cover.jpg"
 tags: ["Mizuki", "Blogging", "Customization"]
-category: Guides
+category: diary
 draft: false
 ---
 
