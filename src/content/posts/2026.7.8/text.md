@@ -1,8 +1,8 @@
 ---
 title: 浅谈mmd
-published: 2026-7-8
+published: 2026-07-08
 description: "今天我终于做了一个我个人认为真正意义上的mmd"
-image: "./cover.png"
+image: "./cover.jpg"
 tags: ["Mizuki", "Blogging", "Customization"]
 category: Technology
 draft: false
