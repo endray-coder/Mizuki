@@ -76,6 +76,14 @@ export const friendsData: FriendItem[] = [
 		siteurl: "https://developer.mozilla.org",
 		tags: ["Docs", "Reference"],
 	},
+	{
+		id: 9,
+		title: "Mizuki",
+		imgurl: "https://avatars.githubusercontent.com/u/225602409?v=4",
+		desc: "origin template",
+		siteurl: "https://github.com/LyraVoid/Mizuki",
+		tags: ["github"],
+	}
 ];
 
 // 获取所有友情链接数据

@@ -6,6 +6,8 @@ image: "./cover.jpg"
 tags: ["Mizuki", "Blogging", "Customization"]
 category: diary
 draft: false
+encrypted: true
+password: "123456"
 ---
 
 

@@ -1,11 +1,13 @@
 ---
-title: 图书馆？
+title: 呆在图书馆
 published: 2026-03-23
-description: "看心理学"
+description: " "
 image: "./cover.png"
 tags: ["Mizuki", "Blogging", "Customization"]
 category: diary
 draft: false
+encrypted: true
+password: "123456"
 ---
 
 
